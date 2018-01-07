@@ -13,3 +13,5 @@ I modified the rule as 20-20-60 focusing on taking a break for 60sec.
 Whenever time is x:20 or x:40 or x:00, music will start it will play for 1 min and then it will stop.
 
 Required module-vlc(pip install vlc)
+
+Note-Dont forget to add song path. 
